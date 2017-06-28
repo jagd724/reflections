@@ -14,4 +14,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 When I want to try experimental features, change languages, etc. Any big change that can affect the functionallity of the code.
 
+How do the diagrams help you visualize the branch structure?
+
+I can know the parents of a commit and ensure where I can modified without affect the rest of the commit history
+
+
 martes 18 de julio 2:10 p.m., estar 30 minutos antes consultorio 066 historia y orden.
