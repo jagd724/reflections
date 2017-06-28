@@ -2,3 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 A message is given by git telling me where is the new repository and a folder name .git is created where all metadata is stored.
 We need a repository to track all changes of a project without having a lot of similar folders/files.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Stagin area is a layer that let me have more control over the changes I want to commit at once. It is different from working directory
+in the sense it is contained in and it doesnt mean it will be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I think we can use git diff to evaluate the working directory vs stagging area and use git diff --staged to compare with the most recent commit, it isnt neccesary to commit all files.
+
+martes 18 de julio 2:10 p.m., estar 30 minutos antes consultorio 066 historia y orden.
