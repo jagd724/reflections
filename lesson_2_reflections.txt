@@ -22,5 +22,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 When two branches are merging they show all the commit made. In the diagram is easy to follow all the history.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: You preserve exact the changes you want.
+COns: It implies to read a lot of code
+
 
 martes 18 de julio 2:10 p.m., estar 30 minutos antes consultorio 066 historia y orden.
