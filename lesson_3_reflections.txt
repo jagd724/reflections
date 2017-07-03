@@ -13,8 +13,15 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork: Only works in github and it is similar to git clone: It copies a 
       repository into your git hub account.
 
-Clone: Works in git. It copy a repository from github to a local machine 
+Clone: Works in git. It copies a repository from github to a local machine 
 	   or copy a repository in another location in the same machine.
 
-Branch: It is just a method to label where you dont want commits be
-		reachable by other commits, Like a tree branches :).
+Branch: It is just a method to label change into a repository.
+
+I will use branches when I am working in a repository and want to try
+some important changes that can affect the production version. Instead
+I will use Clone if I want to collaborate with a github repository making
+ changes in my local machine instead of using github website.
+I will use fork if I want to copy a repository for free manipulation
+without wating approvals of the creator.
+
