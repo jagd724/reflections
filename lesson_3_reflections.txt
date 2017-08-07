@@ -42,3 +42,10 @@ want to change the same part of the file we will clobber each one changes.
 Another solution can be using real time sharing editors like word online or google docs
 but the problem with this solution is we can compare the versions and make a mesh that 
 creates a bug.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+   I tend to work directly in master more often when I'm working on my own or
+    with just one or two other people.  When working with a large group, though,
+    using branches to keep track of which changes have already been reviewed and
+    approved is extremely helpful.
